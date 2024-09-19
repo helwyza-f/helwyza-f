@@ -26,8 +26,8 @@ I'm a passionate **Full-Stack Developer** with a keen interest in building dynam
 - **Kotlin** | **GraphQL** | **DevOps Practices**
 
 ## 📫 How to reach me
-- Email: helwiza.fahry@gmail.com
-- LinkedIn: [Helwiza Fahry](https://linkedin.com/in/helwiza-fahry)
-- Portfolio: [Coming soon!]
+- Email: helwyza@gmail.com
+- LinkedIn: [Helwiza Fahry]([https://linkedin.com/in/helwiza-fahry](https://www.linkedin.com/in/helwiza-fahry-192a19230/))
+- Portfolio: [Helwyza](https://helwyza.netlify.app/)
 
 I’m always open to collaborating on exciting projects or new opportunities in software development. Feel free to connect!
