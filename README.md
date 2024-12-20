@@ -1,33 +1,35 @@
-# Hi there! I'm Helwiza Fahry 👋
+# Hi there! I'm **Helwiza Fahry** 👋
 
-I'm a passionate **Full-Stack Developer** with a keen interest in building dynamic and responsive web and mobile applications. My goal is to constantly improve my skills and contribute to innovative projects.
+I am a passionate **Full-Stack Developer** with a strong interest in building dynamic and responsive web and mobile applications. My goal is to continually improve my skills and contribute to innovative and impactful projects.
 
 ## 🚀 Technologies & Tools
 
-### Frontend
-- **React** | **JavaScript** | **HTML5** | **CSS3** | **Bootstrap** | **Tailwind CSS**
+### **Frontend Development**  
+- **React** | **Next.js** | **JavaScript** | **HTML5** | **CSS3** | **Bootstrap** | **Tailwind CSS**
 
-### Backend
-- **Node.js** | **Express.js** | **Java** | **Kotlin** (learning) | **PHP**
+### **Backend Development**  
+- **Node.js** | **Express.js** | **Java** | **Kotlin** (currently learning) | **PHP**
 
-### Databases
-- **MySQL** | **MongoDB**
+### **Databases**  
+- **MySQL** | **MongoDB** | **PostgreSQL** (ongoing migration)
 
-### Mobile Development
+### **Mobile Development**  
 - **React Native** | **Android Development** (Java & Kotlin)
 
-### Version Control
+### **Version Control**  
 - **Git** | **GitHub**
 
-### Other Tools
-- **Visual Studio Code** | **Postman** | **Docker**
+### **Other Tools**  
+- **Visual Studio Code** | **Postman** | **Docker** | **Prisma**
 
-## 🌱 Currently Learning
+## 🌱 **Currently Learning**  
 - **Kotlin** | **GraphQL** | **DevOps Practices**
 
-## 📫 How to reach me
-- Email: helwyza@gmail.com
-- LinkedIn: [Helwiza Fahry](https://www.linkedin.com/in/helwiza-fahry-192a19230/)
+## 📫 **How to Reach Me**  
+- Email: [helwyza@gmail.com](mailto:helwyza@gmail.com)  
+- LinkedIn: [Helwiza Fahry](https://www.linkedin.com/in/helwiza-fahry-192a19230/)  
 - Portfolio: [Helwyza](https://helwyza.netlify.app/)
 
-I’m always open to collaborating on exciting projects or new opportunities in software development. Feel free to connect!
+---
+
+Feel free to connect for exciting collaboration opportunities or new projects in the software development field!
